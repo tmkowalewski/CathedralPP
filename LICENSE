@@ -631,9 +631,9 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    Cathedral Plus Plus (CathedralPP) is an implemenation of the board
+    Cathedral Plus Plus is an implemenation of the board
     game Cathedral, written in C++ and designed to be run on the command
-    line. The author of CathedralPP does not own the rights to the 
+    line. The author of CathedralPlusPlus does not own the rights to the 
     Cathedral board game. All rights belong to their respective owners.
     Copyright (C) 2024  Tyler Michael Kowalewski
 
@@ -655,7 +655,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    CathedralPP  Copyright (C) 2024  T. M. Kowalewski
+    CathedralPlusPlus  Copyright (C) 2024  T. M. Kowalewski
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
